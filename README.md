@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in my fourth year of studies to become an engineer in artificial intelligence and data science.<br>Love coding and creating projects.<br>Passionate about technology, ambitious in the field of computer science.<br>Get relief in gaming.
+I am currently in my fourth year of studies to become an engineer in artificial intelligence and data science.<br>As an ambitious computer science student, I want to leverage my academic knowledge and passion for technology to launch my career in the field. I am looking for opportunities to apply my theoretical knowledge to concrete projects and contribute to innovative solutions.<br>Get relief in gaming.
 
 
 ## 🌐 Socials:
