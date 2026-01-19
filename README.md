@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently in my fourth year of studies to become an engineer in artificial intelligence and data science.<br>As an ambitious computer science student, I want to leverage my academic knowledge and passion for technology to launch my career in the field. I am looking for opportunities to apply my theoretical knowledge to concrete projects and contribute to innovative solutions.<br>Get relief in gaming.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imad-e)
 
