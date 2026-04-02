@@ -12,7 +12,7 @@ I am currently in my fourth year of studies to become an engineer in artificial 
 ![](https://nirzak-streak-stats.vercel.app/?user=ImadElkharrat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadElkharrat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
